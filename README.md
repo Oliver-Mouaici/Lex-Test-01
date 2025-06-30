@@ -1,2 +1,2 @@
-# Lex-Test-01
+# Git-lexicon
 Test
